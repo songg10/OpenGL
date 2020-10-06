@@ -1,0 +1,3 @@
+#define WIN_WIDTH 400
+#define WIN_HEIGHT 400
+#define IMAGE_WIDTH 5.0

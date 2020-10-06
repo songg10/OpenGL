@@ -1,0 +1,29 @@
+3D Fruit Tetris by Song Tung Nguyen (301354423)
+*Instructions:
+- The program runs on Linux OS and requires GLEW and freeglut installed.
+- freeglut: Type "sudo apt-get install freeglut3-dev" on terminal.
+- GLEW: Type "sudo apt-get install libglew-dev" on terminal or follow the instructions on "http://glew.sourceforge.net/index.html"
+- To run the program, please head into the folder "Assignment 2/Part 1" and type "make" (ignores all the warnings) anf type "./FruitTetris3D" to run the program.
+
+*Controls:
+- Up arrow to rotate the tile.
+- Down arrow to move the tile down faster.
+- 'w' to move the arm upwards.
+- 's' to move the arm downwards.
+- 'a' to move the arm leftwards.
+- 'd' to move the arm 'rightwards'.
+- ctrl + left arrow would rotate the viewing angle to the left.
+- ctrl + right arrow would rotate the viewing angle to the right.
+- Press the space bar to drop the tile (after 10 seconds the tile would be dropped automatically).
+- 'Q' to quit.
+- 'R' to restart.
+- Left arrow + Right arrow (movement of the tile to the left and right) is disabled just as the requirements specified.
+
+*Additional Features:
+- Fullfiled all the additional features outlied in the assignment.
+
+*Known bugs:
+- There are no bugs detected at the moment.
+
+*Acknowledgement:
+- The implementation of this program uses some implementations which is provided by the instructor (Tom Shermer), which can be found here: http://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SIXTH_EDITION/CODE/CHAPTER08/

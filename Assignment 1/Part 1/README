@@ -1,0 +1,22 @@
+Fruit Tetris by Song Tung Nguyen (301354423)
+*Instructions:
+- The program runs on Linux OS and requires GLEW and freeglut installed.
+- freeglut: Type "sudo apt-get install freeglut3-dev" on terminal.
+- GLEW: Type "sudo apt-get install libglew-dev" on terminal or follow the instructions on "http://glew.sourceforge.net/index.html"
+- To run the program, please head into the folder "Assignment 1/Part 1" and type "make" (ignores all the warnings) anf type "./FruitTetris" to run the program.
+
+*Controls:
+- Up arrow to rotate the tile.
+- Left and right arrows to move the tile leftwards or rightwards.
+- Down arrow to move the tile down faster.
+- 'Q' to quit.
+- 'R' to restart.
+
+*Additional Features:
+- Fullfiled all the additional features outlied in the assignment.
+- Press "space" to shuffle color of the tile.
+
+*Known bugs:
+- A square of a tile does not stop falling if there is nothing below it (does not fully follow the tetris rule of stacking).
+
+
